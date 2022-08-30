@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iAhmadGad
-- 👀 I’m interested in Scratch
+- 👀 I’m interested in Scratch & Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @iAhmadGad 
