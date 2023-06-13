@@ -7,7 +7,7 @@
 # ☕ What I'm working on: 
 - [Calculator.Java](https://github.com/iAhmadGad/Calculator.Java)
 
-Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could make many math operations with more than than 2 numbers, considerating the operator precedence.
+Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could operate many math operations with more than just 2 numbers, considerating the operator precedence.
 
 # 🪐 Other:
 - [Whatever.Java](https://github.com/iAhmadGad/Whatever.Java): Some random codes made with Java.
