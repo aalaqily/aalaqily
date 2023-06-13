@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @iAhmadGad
+- 🌚 I'm a 16 years old boy, who loves mathematics, physics, programming, and anyting related
 - 👀 I’m interested in Scratch & Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
@@ -6,7 +7,7 @@
 # ☕ What I'm working on: 
 - [Calculator.Java](https://github.com/iAhmadGad/Calculator.Java)
 
-Currently I'm working to make a calculator with java, I'm still trying to develop it, & to figure out an algorithm that could make many math operations with more than than 2 numbers, considerating the operator precedence.
+Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could make many math operations with more than than 2 numbers, considerating the operator precedence.
 
 # 🪐 Other:
 - [Whatever.Java](https://github.com/iAhmadGad/Whatever.Java): Some random codes made with Java.
