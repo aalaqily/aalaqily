@@ -4,17 +4,17 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
 
-# ☕ What I'm working on: 
+## ☕ What I'm working on: 
 - [Calculator.Java](https://github.com/iAhmadGad/Calculator.Java)
 
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could operate many math operations with more than just 2 numbers, considerating the operator precedence.
 
-# 🪐 Other:
+## 🪐 Other:
 - [Whatever.Java](https://github.com/iAhmadGad/Whatever.Java): Some random codes made with Java.
 - [PixelMan-Platformer-1.Scratch](https://github.com/iAhmadGad/PixelMan-Platformer-1.Scratch): A simple platformer game made with Scratch.
 - [PixelMan-Platformer-2.Scratch](https://github.com/iAhmadGad/PixelMan-Platformer-2.Scratch): The second part from the previous game.
 
-# 📫 How to reach me: 
+## 📫 How to reach me: 
 [![Facebook](https://img.shields.io/static/v1?label=iAhmadGad&message=Facebook&color=blue&logo=facebook)](https://www.facebook.com/iAhmadGad/)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Reddit&color=orange&logo=reddit)](https://www.reddit.com/u/iAhmadGad)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Scratch&color=yellow&logo=Scratch)](https://scratch.mit.edu/users/iAhmadGad/)
