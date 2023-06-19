@@ -3,9 +3,6 @@
 - 👀 I’m interested in Scratch & Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
-## Languages & Platformes:
-[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Java.png)](https://www.java.com/en/)
-[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Scratch.png)](https://scratch.mit.edu/)
 ## ☕ What I'm working on: 
 - [Calculator.Java](https://github.com/iAhmadGad/Calculator.Java)
 
@@ -18,6 +15,9 @@ Currently I'm developing a calculator with java, I'm still trying to figure out 
 [![Facebook](https://img.shields.io/static/v1?label=iAhmadGad&message=Facebook&color=blue&logo=facebook)](https://www.facebook.com/iAhmadGad/)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Reddit&color=orange&logo=reddit)](https://www.reddit.com/u/iAhmadGad)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Scratch&color=yellow&logo=Scratch)](https://scratch.mit.edu/users/iAhmadGad/)
+## Languages & Platformes:
+[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Java.png)](https://www.java.com/en/)
+[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Scratch.png)](https://scratch.mit.edu/)
 
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
