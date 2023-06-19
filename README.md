@@ -3,6 +3,9 @@
 - 👀 I’m interested in Scratch & Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
+## Languages & Platformes:
+[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Java.png)](https://www.java.com/en/)
+[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Scratch.png)](https://scratch.mit.edu/)
 ## ☕ What I'm working on: 
 - [Calculator.Java](https://github.com/iAhmadGad/Calculator.Java)
 
