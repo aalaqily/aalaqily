@@ -15,7 +15,7 @@ Currently I'm developing a calculator with java, I'm still trying to figure out 
 [![Facebook](https://img.shields.io/static/v1?label=iAhmadGad&message=Facebook&color=blue&logo=facebook)](https://www.facebook.com/iAhmadGad/)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Reddit&color=orange&logo=reddit)](https://www.reddit.com/u/iAhmadGad)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Scratch&color=yellow&logo=Scratch)](https://scratch.mit.edu/users/iAhmadGad/)
-## Languages & Platformes:
+## 💻 Languages & Platformes:
 [![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Java.png)](https://www.java.com/en/)
 [![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Scratch.png)](https://scratch.mit.edu/)
 
