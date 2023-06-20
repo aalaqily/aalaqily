@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
 ## ☕ What I'm working on: 
-- [Calculator.Java](https://github.com/iAhmadGad/Calculator.Java)
+- [JCalculator.Java](https://github.com/iAhmadGad/JCalculator.Java)
 
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could operate many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other:
