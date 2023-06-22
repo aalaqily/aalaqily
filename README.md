@@ -6,7 +6,7 @@
 ## ☕ What I'm working on: 
 - [JCalculator.Java `Latest: v0.4`](https://github.com/iAhmadGad/JCalculator.Java)
 
-Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could operate many math operations with more than just 2 numbers, considering the operator precedence.
+Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could solve many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other:
 - [Whatever.Java](https://github.com/iAhmadGad/Whatever.Java): Some random codes made with Java.
 - [PixelMan-Platformer-2.Scratch](https://github.com/iAhmadGad/PixelMan-Platformer-2.Scratch): The second part of PixelMan Platformer.
