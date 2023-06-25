@@ -9,9 +9,7 @@
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could solve many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other:
 - [Whatever.Java](https://github.com/iAhmadGad/Whatever.Java): Some random codes made with Java.
-- [PixelMan-Platformer-2.Scratch](https://github.com/iAhmadGad/PixelMan-Platformer-2.Scratch): The second part of PixelMan Platformer.
-## 📂 Archived:
-- [PixelMan-Platformer-1.Scratch](https://github.com/iAhmadGad/PixelMan-Platformer-1.Scratch): A simple platformer game made with Scratch.
+<!---## 📂 Archived: --->
 ## 📫 How to reach me: 
 [![Facebook](https://img.shields.io/static/v1?label=iAhmadGad&message=Facebook&color=blue&logo=facebook)](https://www.facebook.com/iAhmadGad/)
 [![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Reddit&color=orange&logo=reddit)](https://www.reddit.com/u/iAhmadGad)
