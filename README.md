@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
 ## ☕ What I'm working on: 
-- [JCalculator.Java `Latest: v0.4`](https://github.com/iAhmadGad/JCalculator.Java)
+- [JCalculator `Latest: v0.4`](https://github.com/iAhmadGad/JCalculator)
 
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could solve many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other:
-- [Whatever.Java](https://github.com/iAhmadGad/Whatever.Java): Some random codes made with Java.
+- [JavaRandoms](https://github.com/iAhmadGad/JavaRandoms): Some random codes made with Java.
 
 [`...`](https://github.com/iAhmadGad?tab=repositories)
 <!---## 📂 Archived: --->
