@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iAhmadGad
+- 👋🏼 Hi, I’m @iAhmadGad
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, programming, and anyting related
 - 👀 I’m interested in Scratch & Java
 - 🌱 I’m currently learning Java
@@ -10,15 +10,17 @@ Currently I'm developing a calculator with java, I'm still trying to figure out 
 ## 🪐 Other:
 - [JavaRandoms](https://github.com/iAhmadGad/JavaRandoms): Some random codes made with Java.
 
-[`...`](https://github.com/iAhmadGad?tab=repositories)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`more... `](https://github.com/iAhmadGad?tab=repositories)
 <!---## 📂 Archived: --->
-## 📫 How to reach me: 
-[![Facebook](https://img.shields.io/static/v1?label=iAhmadGad&message=Facebook&color=blue&logo=facebook)](https://www.facebook.com/iAhmadGad/)
-[![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Reddit&color=orange&logo=reddit)](https://www.reddit.com/u/iAhmadGad)
-[![Reddit](https://img.shields.io/static/v1?label=iAhmadGad&message=Scratch&color=yellow&logo=Scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 ## 💻 Languages & Platforms:
-[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Java.png)](https://www.java.com/en/)
-[![Java](https://github.com/iAhmadGad/iAhmadGad/blob/main/imgs/Scratch.png)](https://scratch.mit.edu/)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://html.com/html5/)
+[![Scratch](https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch)](https://scratch.mit.edu/)
+
+## 📫 How to reach me: 
+[![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad/)
+[![Reddit](https://img.shields.io/badge/Reddit-white?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
+[![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
