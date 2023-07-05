@@ -1,7 +1,7 @@
 - 👋🏼 Hi, I’m @iAhmadGad
-- 🌚 I'm a 16 years old boy, who loves mathematics, physics, programming, and anyting related
-- 👀 I’m interested in Scratch & Java
-- 🌱 I’m currently learning Java
+- 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anyting related
+- ♂️ Pronouns: he, him
+- 👀 I’m interested in Java, Blockly & Fullstack development
 - 💞️ I’m looking to collaborate on Github
 ## ☕ What I'm working on: 
 - [**JCalculator**](https://github.com/iAhmadGad/JCalculator) `Latest: v0.4`
@@ -35,6 +35,7 @@ Just a simple quiz tester made with Java. ☕
 [![CodeForces](https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces)](https://codeforces.com/profile/iAhmadGad)
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
 
+<!--- - 🌱 I’m currently learning Java --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
