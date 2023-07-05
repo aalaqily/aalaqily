@@ -21,7 +21,7 @@ Just a simple quiz tester made with Java. ☕
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-black?style=for-the-badge&logo=.Net)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://html.spec.whatwg.org/multipage/)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)](https://www.w3.org/Style/CSS/)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)](https://www.w3.org/Style/CSS/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?style=for-the-badge&logo=JavaScript)](https://www.javascript.com/)
 [![Blockly](https://img.shields.io/badge/Blockly-black?style=for-the-badge&logo=Google)](https://developers.google.com/blockly)
 [![Scratch](https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/)
