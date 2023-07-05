@@ -8,9 +8,12 @@
 
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could solve many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other:
-- [**JavaRandoms**](https://github.com/iAhmadGad/JavaRandoms)
+- [**Java-ConsoleSimpleCalculator**](https://github.com/iAhmadGad/Java-ConsoleSimpleCalculator)
 
-Some random codes made with Java.
+Just a simple calculator made with Java. ☕
+- [**Java-ConsoleSimpleQuiz**](https://github.com/iAhmadGad/Java-ConsoleSimpleQuiz)
+
+Just a simple quiz tester made with Java. ☕
 
 - [`more... `](https://github.com/iAhmadGad?tab=repositories)
 <!---## 📂 Archived: --->
