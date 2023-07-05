@@ -4,13 +4,15 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
 ## ☕ What I'm working on: 
-- [JCalculator `Latest: v0.4`](https://github.com/iAhmadGad/JCalculator)
+- [**JCalculator**](https://github.com/iAhmadGad/JCalculator) `Latest: v0.4`
 
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could solve many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other:
-- [JavaRandoms](https://github.com/iAhmadGad/JavaRandoms): Some random codes made with Java.
+- [**JavaRandoms**](https://github.com/iAhmadGad/JavaRandoms)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`more... `](https://github.com/iAhmadGad?tab=repositories)
+Some random codes made with Java.
+
+- [`more... `](https://github.com/iAhmadGad?tab=repositories)
 <!---## 📂 Archived: --->
 ## 💻 Languages & Platforms:
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
