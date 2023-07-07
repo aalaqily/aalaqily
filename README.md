@@ -3,7 +3,6 @@
 - ♂️ Pronouns: he, him
 - 👀 I’m interested in Java, Blockly & Fullstack development
 - 💞️ I’m looking to collaborate on Github
-Java developer, Scratcher, Fullstack developer
 ## 💻 Titles
 ![Java developer](https://img.shields.io/badge/Java_developer-blue?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scratcher](https://img.shields.io/badge/Scratcher-orange?style=for-the-badge&logo=Scratch&logoColor=white)
