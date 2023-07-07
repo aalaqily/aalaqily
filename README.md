@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m @iAhmadGad
-- 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anyting related
+- 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
 - ♂️ Pronouns: he, him
 - 👀 I’m interested in Java, Blockly & Fullstack development
 - 💞️ I’m looking to collaborate on Github
