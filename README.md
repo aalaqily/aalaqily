@@ -7,7 +7,6 @@
 ![Student](https://img.shields.io/badge/Student-white?style=for-the-badge)
 ![Java developer](https://img.shields.io/badge/Java_developer-blue?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scratcher](https://img.shields.io/badge/Scratcher-orange?style=for-the-badge&logo=Scratch&logoColor=white)
-![Fullstack developer](https://img.shields.io/badge/Fullstack_developer-black?style=for-the-badge)
 ## ☕ What I'm working on
 - [**JCalculator**](https://github.com/iAhmadGad/JCalculator) `Latest: v0.4`
 
@@ -34,8 +33,8 @@ Just a simple quiz tester made with Java. ☕
 ## 📫 How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad/)
 [![Reddit](https://img.shields.io/badge/Reddit-white?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
+[![Mastodon](https://img.shields.io/badge/Mastodon-white?style=flat-square&logo=Mastodon)](https://mastodon.social/@iAhmadGad)
 [![Skype](https://img.shields.io/badge/Skype-white?style=flat-square&logo=Skype)](https://join.skype.com/invite/DZdEnZGxnkN3)
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat-square&logo=Telegram)](t.me/iAhmadGad)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-white?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/14764943/ahmad-gad)
 [![CodeForces](https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces)](https://codeforces.com/profile/iAhmadGad)
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
