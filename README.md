@@ -38,6 +38,8 @@ Just a simple quiz tester made with Java. ☕
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-white?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/14764943/ahmad-gad)
 [![CodeForces](https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces)](https://codeforces.com/profile/iAhmadGad)
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
+## More
+- [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates)
 
 <!--- 🌱 I’m currently learning ... --->
 <!---
