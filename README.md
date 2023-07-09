@@ -1,5 +1,6 @@
 - 👋🏼 Hi, I’m @iAhmadGad
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
+-  🌱 I’m currently learning Java
 - ♂️ Pronouns: he, him
 - 👀 I’m interested in Java, Blockly & Fullstack development
 - 💞️ I’m looking to collaborate on Github
@@ -23,6 +24,7 @@ Just a simple quiz tester made with Java. ☕
 <!---## 📂 Archived: --->
 ## 💻 Languages & Platforms
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)](https://www.java.com/en/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-black?style=for-the-badge&logo=.Net)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=264de4)](https://www.w3.org/Style/CSS/)
@@ -41,7 +43,7 @@ Just a simple quiz tester made with Java. ☕
 ## More
 - [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates)
 
-<!--- 🌱 I’m currently learning ... --->
+<!--- --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
