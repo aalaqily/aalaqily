@@ -44,7 +44,7 @@ Just a simple quiz tester made with Java. ☕
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
 ## More
 - [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates)
-
+- [**🌐 My website on GitHub Pages**](https://iahmadgad.github.io/home.html)
 <!--- --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
