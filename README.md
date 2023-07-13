@@ -1,3 +1,9 @@
+<p style="text-align: center;"> 
+Veteran meme lord with honours, Physics & Nutella Lover, hopes - someday - to become a physicist. ☕🖤</p>
+
+
+
+
 - 👋🏼 Hi, I’m @iAhmadGad
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
 -  🌱 I’m currently learning Java
