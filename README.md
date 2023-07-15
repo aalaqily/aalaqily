@@ -27,7 +27,6 @@ Just a simple quiz tester made with Java. ☕
 ## 💻 Languages & Platforms
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)](https://www.java.com/en/)
-[![Visual Basic](https://img.shields.io/badge/Visual_Basic-black?style=for-the-badge&logo=.Net)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=264de4)](https://www.w3.org/Style/CSS/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?style=for-the-badge&logo=JavaScript)](https://www.javascript.com/)
