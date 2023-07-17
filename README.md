@@ -17,10 +17,10 @@ Currently I'm developing a calculator with java, I'm still trying to figure out 
 ## 🪐 Other
 - [**Java-ConsoleSimpleCalculator**](https://github.com/iAhmadGad/Java-ConsoleSimpleCalculator)
 
-Just a simple calculator made with Java. ☕
+Just a simple calculator written in Java. ☕
 - [**Java-ConsoleSimpleQuiz**](https://github.com/iAhmadGad/Java-ConsoleSimpleQuiz)
 
-Just a simple quiz tester made with Java. ☕
+Just a simple quiz tester written in Java. ☕
 
 - [`more... `](https://github.com/iAhmadGad?tab=repositories)
 <!---## 📂 Archived: --->
