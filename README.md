@@ -41,9 +41,10 @@ Just a simple quiz tester made with Java. ☕
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-white?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/14764943/ahmad-gad)
 [![CodeForces](https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces)](https://codeforces.com/profile/iAhmadGad)
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
-## More
+
+[![My website on GitHub Pages](https://img.shields.io/badge/My_website_on_GitHub_Pages-black?style=flat-square&logo=Github)](https://iahmadgad.github.io)
+## 📄 Docs
 - [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates)
-- [**🌐 My website on GitHub Pages**](https://iahmadgad.github.io/)
 <!--- --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
