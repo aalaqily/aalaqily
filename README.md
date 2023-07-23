@@ -6,7 +6,7 @@
 -  🌱 I’m currently learning Java
 - 👀 I’m interested in Java, Blockly & Fullstack development
 - 💞️ I’m looking to collaborate on Github
-- 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My-life-in-a-brief)
+- 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
 ## 💻 Titles
 ![Student](https://img.shields.io/badge/Student-white?style=for-the-badge)
 ![Scratcher](https://img.shields.io/badge/Scratcher-orange?style=for-the-badge&logo=Scratch&logoColor=white)
