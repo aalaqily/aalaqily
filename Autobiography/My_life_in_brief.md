@@ -1,5 +1,5 @@
 <h2 align="center">❤️ My life in brief </h1>
-<p align="center"><i>Well, this has nothing to do with GitHub or programming tho 🌚, but you can more about me as a <b>Human</b></i></p>
+<p align="center"><i>Well, this has nothing to do with GitHub or programming tho 🌚, but you can know more about me as a <b>Human</b></i></p>
 
 ##
 - 📚 I'm currently in the 2<sup>nd</sup> grade of secondary school _-i. e. High school-_
