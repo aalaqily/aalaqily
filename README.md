@@ -1,4 +1,4 @@
-<h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad/iAhmadGad/edit/main/README.md#-how-to-reach-me">@iAhmadGad</a></sub></h1>
+<h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad/iAhmadGad/tree/main/README.md#-how-to-reach-me">@iAhmadGad</a></sub></h1>
 
 - 👋🏼 Hi, I’m **Ahmad** _-aka **Gelobt**-_
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
