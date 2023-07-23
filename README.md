@@ -1,28 +1,25 @@
-_**“ Veteran meme lord with honours, Java nerd 🤓, Physics & Nutella Lover, hopes - someday - to become a physicist. „ ☕🖤**_
-#
-- 👋🏼 Hi, I’m @iAhmadGad
+<h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad/iAhmadGad/edit/main/README.md#-how-to-reach-me">@iAhmadGad</a></sub></h1>
+
+- 👋🏼 Hi, I’m **Ahmad** _-aka **Gelobt**-_
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
--  🌱 I’m currently learning Java
 - ♂️ Pronouns: he, him
+-  🌱 I’m currently learning Java
 - 👀 I’m interested in Java, Blockly & Fullstack development
 - 💞️ I’m looking to collaborate on Github
+- 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My-life-in-a-brief)
 ## 💻 Titles
 ![Student](https://img.shields.io/badge/Student-white?style=for-the-badge)
-![Java developer](https://img.shields.io/badge/Java_developer-blue?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scratcher](https://img.shields.io/badge/Scratcher-orange?style=for-the-badge&logo=Scratch&logoColor=white)
+![Java developer](https://img.shields.io/badge/Java_beginner_intermediate_developer-blue?style=for-the-badge&logo=openjdk&logoColor=white)
 ## ☕ What I'm working on
 - [**JCalculator**](https://github.com/iAhmadGad/JCalculator) `Latest: v0.4`
 
 Currently I'm developing a calculator with java, I'm still trying to figure out an algorithm that could solve many math operations with more than just 2 numbers, considering the operator precedence.
 ## 🪐 Other
-- [**Java-ConsoleSimpleCalculator**](https://github.com/iAhmadGad/Java-ConsoleSimpleCalculator)
+- [**Java-Randoms**](https://github.com/iAhmadGad/Java-Randoms)
 
-Just a simple calculator written in Java. ☕
-- [**Java-ConsoleSimpleQuiz**](https://github.com/iAhmadGad/Java-ConsoleSimpleQuiz)
-
-Just a simple quiz tester written in Java. ☕
-
-- [`more... `](https://github.com/iAhmadGad?tab=repositories)
+Some random programs written in Java. ☕
+- [**more...**](https://github.com/iAhmadGad?tab=repositories)
 <!---## 📂 Archived: --->
 ## 💻 Languages & Platforms
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
@@ -44,8 +41,9 @@ Just a simple quiz tester written in Java. ☕
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
 
 [![My website on GitHub Pages](https://img.shields.io/badge/My_website_on_GitHub_Pages-black?style=flat-square&logo=Github)](https://iahmadgad.github.io)
-## 📄 Docs
+## 📄 Repo Index
 - [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates)
+- [**📝 Autobiography**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography)
 <!--- --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
