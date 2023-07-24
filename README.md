@@ -1,4 +1,4 @@
-<h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad/iAhmadGad/tree/main/README.md#-how-to-reach-me">@iAhmadGad</a></sub></h1>
+<h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad#-how-to-reach-me">@iAhmadGad</a></sub></h1>
 <p align="center">يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
 – أَحْمَد شَوْقِي</p>
