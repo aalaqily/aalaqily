@@ -1,5 +1,9 @@
 <h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad/iAhmadGad/tree/main/README.md#-how-to-reach-me">@iAhmadGad</a></sub></h1>
+<p align="center">يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
+وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
+– أَحْمَد شَوْقِي</p>
 
+#
 - 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md) _-aka **Gelobt**-_
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
 - ♂️ Pronouns: he, him
