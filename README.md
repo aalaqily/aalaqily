@@ -1,6 +1,6 @@
 <h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad/iAhmadGad/tree/main/README.md#-how-to-reach-me">@iAhmadGad</a></sub></h1>
 
-- 👋🏼 Hi, I’m **Ahmad** _-aka **Gelobt**-_
+- 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md) _-aka **Gelobt**-_
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
 - ♂️ Pronouns: he, him
 -  🌱 I’m currently learning Java
