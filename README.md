@@ -52,7 +52,7 @@ Some random programs written in Java. ☕
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAhmadGad&hide_progress=true" alt="Top Langs"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iAhmadGad&show_icons=true&theme=transparent" alt="Github Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iAhmadGad&show_icons=true&theme=default" alt="Github Stats"></p>
 <!--- --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
