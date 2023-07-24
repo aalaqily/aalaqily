@@ -1,4 +1,4 @@
-<h2 align="center">❤️ My life in brief </h1>
+<h2 align="center">My life in brief ❤️</h1>
 <p align="center"><i>Well, this has nothing to do with GitHub or programming tho 🌚, but you can know more about me as a <b>Human</b></i></p>
 
 ##
