@@ -1,5 +1,6 @@
-<h1 align="center">Ahmad Asaad <br/> <sub><a href="https://github.com/iAhmadGad#-how-to-reach-me">@iAhmadGad</a></sub></h1>
-<p align="center">يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
+<h2 align="center">Ahmad Asaad <br/><a href="https://github.com/iAhmadGad#-how-to-reach-me"><sub>@iAhmadGad</sub></a></h2>
+<p align="center">
+يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
 – أَحْمَد شَوْقِي</p>
 
