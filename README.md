@@ -50,10 +50,24 @@ Some random programs written in Java. ☕
 - [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates)
 - [**📝 Autobiography**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography)
 ## 📊 Stats
+<details>
+<summary><b> Top Languages </b></summary>
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iAhmadGad&show_icons=true&locale=en&layout=compact" alt="Top Languages"></p> 
+</details>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAhmadGad&hide_progress=true" alt="Top Langs"></p>
+<details>
+<summary><b> GitHub Stats </b></summary>
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iAhmadGad&show_icons=true&locale=en" alt="Stats"></p>
+</details>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iAhmadGad&show_icons=true&theme=default" alt="Github Stats"></p>
+<details>
+<summary><b> Streak Stats</b></summary>
+<br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iAhmadGad" alt="Streak Stats"></p>
+</details>
+
 <!--- --->
 <!---
 iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
