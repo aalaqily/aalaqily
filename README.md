@@ -29,6 +29,11 @@ Currently I'm developing a calculator with java, I'm still trying to figure out 
 - [**Java-Randoms**](https://github.com/iAhmadGad/Java-Randoms)
 
 Some random programs written in Java. ☕
+
+- [**Codeforces-Problemsets**](https://github.com/iAhmadGad/Codeforces-Problemsets)
+
+A repo for my solutions for Codeforces problemsets.
+
 - [**more...**](https://github.com/iAhmadGad?tab=repositories)
 
 <!---## 📂 Archived: --->
@@ -51,7 +56,7 @@ Some random programs written in Java. ☕
 [![Mastodon](https://img.shields.io/badge/Mastodon-white?style=flat-square&logo=Mastodon)](https://mastodon.social/@iAhmadGad)
 [![Skype](https://img.shields.io/badge/Skype-white?style=flat-square&logo=Skype)](https://join.skype.com/invite/DZdEnZGxnkN3)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-white?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/14764943/ahmad-gad)
-[![CodeForces](https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces)](https://codeforces.com/profile/iAhmadGad)
+[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
 [![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
 ## 📊 Stats
 <details>
