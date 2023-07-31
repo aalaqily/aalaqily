@@ -18,7 +18,7 @@
 ## 💻 Titles
 ![Student](https://img.shields.io/badge/Student-white?style=for-the-badge)
 ![Scratcher](https://img.shields.io/badge/Scratcher-orange?style=for-the-badge&logo=Scratch&logoColor=white)
-![Java developer](https://img.shields.io/badge/Beginner_intermediate_Java_developer-blue?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java developer](https://img.shields.io/badge/Java_amateur-blue?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## ☕ What I'm working on
 - [**JCalculator**](https://github.com/iAhmadGad/JCalculator) `Latest: v0.4`
@@ -42,9 +42,9 @@ A repo for my solutions for Codeforces problemsets.
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)]()
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)](https://www.java.com/en/)
+[![Java Script](https://img.shields.io/badge/Java_Script-black?style=for-the-badge&logo=JavaScript)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=264de4)](https://www.w3.org/Style/CSS/)
-[![Java Script](https://img.shields.io/badge/Java_Script-black?style=for-the-badge&logo=JavaScript)](https://www.javascript.com/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)](https://github.com/)
 [![Blockly](https://img.shields.io/badge/Blockly-black?style=for-the-badge&logo=Google)](https://developers.google.com/blockly)
