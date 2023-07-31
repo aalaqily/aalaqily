@@ -30,7 +30,7 @@ Currently I'm developing a calculator with java, I'm still trying to figure out 
 
 Some random programs written in Java. ☕
 
-- [**Codeforces-Problemsets**](https://github.com/iAhmadGad/Codeforces-Problemsets)
+- [**Codeforces-Problems**](https://github.com/iAhmadGad/Codeforces-Problems)
 
 A repo for my solutions for Codeforces problemsets.
 
