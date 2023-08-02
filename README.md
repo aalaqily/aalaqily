@@ -1,4 +1,4 @@
-<h2 align="center">@iAhmadGad<br/>
+<h2 align="center">iAhmadGad<br/>
 <sub><a href="https://iahmadgad.github.io"><img src="https://img.shields.io/badge/My_website_on_GitHub_Pages-black?style=flat-square&logo=Github" alt="My website on GitHub Pages"></a>
 <img src=https://komarev.com/ghpvc/?username=iAhmadGad&label=Profile%20views&color=000000&style=flat" alt="iAhmadGad"></sub></h2>
 <p align="center">
@@ -32,7 +32,7 @@ Some random programs written in Java. ☕
 
 - [**Codeforces-Problems**](https://github.com/iAhmadGad/Codeforces-Problems)
 
-A repo for my solutions for Codeforces problemsets.
+A repo for my solutions to Codeforces problemsets.
 
 - [**more...**](https://github.com/iAhmadGad?tab=repositories)
 
