@@ -32,7 +32,7 @@ Some random programs written in Java. ☕
 
 - [**Codeforces-Problems**](https://github.com/iAhmadGad/Codeforces-Problems)
 
-A repo for my solutions to Codeforces problemsets.
+A repo for my solutions to Codeforces problems.
 
 - [**more...**](https://github.com/iAhmadGad?tab=repositories)
 
