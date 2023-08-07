@@ -1,5 +1,5 @@
 <h2 align="center">iAhmadGad<br/>
-<sub><a href="https://iahmadgad.github.io"><img src="https://img.shields.io/badge/My_website_on_GitHub_Pages-black?style=flat-square&logo=Github" alt="My website on GitHub Pages"></a>
+<sub><a href="https://iahmadgad.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-black?style=flat-square&logo=Github" alt="My website on GitHub Pages"></a>
 <img src=https://komarev.com/ghpvc/?username=iAhmadGad&label=Profile%20views&color=000000&style=flat" alt="iAhmadGad" style="display: none"></sub></h2>
 <p align="center">
 يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
@@ -7,7 +7,7 @@
 – أَحْمَد شَوْقِي</p>
 
 #
-- 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md) _-aka **Gelobt**-_
+- 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md)
 - 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
 - ♂️ Pronouns: he, him
 -  🌱 I’m currently learning Java
