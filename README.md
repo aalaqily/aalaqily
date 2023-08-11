@@ -15,11 +15,6 @@
 - 💞️ I’m looking to collaborate on Github
 - 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
 
-#
-![Student](https://img.shields.io/badge/Student-white?style=for-the-badge)
-![Scratcher](https://img.shields.io/badge/Scratcher-orange?style=for-the-badge&logo=Scratch&logoColor=white)
-![Java developer](https://img.shields.io/badge/Java_amateur-blue?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ## 📫 How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad/)
 [![Reddit](https://img.shields.io/badge/Reddit-white?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
