@@ -8,10 +8,11 @@
 
 #
 - 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md)
-- 🌚 I'm a 16 years old boy, who loves mathematics, physics, computer science, programming & anything related
+- ☕ Java Nerd, Nutella lover & Veteran Meme Lord with honours
+- 🌚 I'm a 16 years old boy, who loves Mathematics, Physics, Computer Science, Programming & anything related
 - ♂️ Pronouns: he, him
--  🌱 I’m currently learning Java & studying CS50x
-- 👀 I’m interested in Java, Blockly & Fullstack development
+- 🌱 I’m currently learning Java & studying CS50x
+- 👀 I’m interested in Java, Python & Blockly
 - 💞️ I’m looking to collaborate on Github
 - 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
 
