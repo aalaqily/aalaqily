@@ -17,10 +17,11 @@
 - 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
 
 ## 📫 How to reach me
-[![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad/)
+[![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad)
 [![Reddit](https://img.shields.io/badge/Reddit-white?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
+[![Mastodon](https://img.shields.io/badge/Mastodon-white?style=flat-square&logo=Mastodon)](https://mastodon.social/@iAhmadGad)
 [![Codeforces](https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
-[![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad/)
+[![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad)
 ## 📊 Stats
 <details>
 <summary><b> Top Languages </b></summary>
