@@ -5,13 +5,14 @@
 <p align="center">
 يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
-– أَحْمَد شَوْقِي</p>
+– أَحْمَد شَوْقِي –</p>
 
 #
 - 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md)
-- ☕ Java Nerd, Nutella lover & Veteran Meme Lord with honours
-- 🌚 I'm a 16 years old boy, who loves Mathematics, Physics, Computer Science, Programming & anything related
-- ♂️ Pronouns: he, him
+- ☕ Pythagorean fella, retarded introvert, veteran meme lord - with honours -, Java nerd & problem solver 
+- 🌚 A 16-year-old boy, who loves Mathematics, Physics, Theoretical Computer Science, Programming & anything related
+- ☁️ Dreams to become a physicist
+- ♂️ Pronouns: He, him
 - 🌱 I’m currently learning Java & studying CS50x
 - 👀 I’m interested in Java, C & Problem solving
 - 💞️ I’m looking to collaborate on Github
