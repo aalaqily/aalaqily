@@ -1,7 +1,4 @@
-<h2 align="center">iAhmadGad<br/>
-<sub><a href="https://iahmadgad.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-black?style=flat-square&logo=Github" alt="GitHub Pages"></a>
-<a href="https://discord.gg/V8TFxYA5AX"><img src="https://img.shields.io/badge/Discord_Server-black?style=flat-square&logo=Discord" alt="GitHub Pages" style="display: none"></a>
-<img src=https://komarev.com/ghpvc/?username=iAhmadGad&label=Profile%20views&color=000000&style=flat" alt="iAhmadGad" style="display: none"></sub></h2>
+<h2 align="center">iAhmadGad<br/></h2>
 <p align="center">
 يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
