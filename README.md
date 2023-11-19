@@ -6,7 +6,7 @@
 
 #
 - 👋🏼 Hi, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md)
-- ☕ Pythagorean fella, retarded introvert, veteran meme lord - with honours -, Java nerd & problem solver 
+- ☕ Retarded introvert, veteran meme lord - with honours -, Java nerd & problem solver 
 - 🌚 A 16-year-old boy, who loves Mathematics, Physics, Theoretical Computer Science, Programming & anything related
 - ☁️ Dreams to become a physicist
 - ♂️ Pronouns: He, him
@@ -16,11 +16,13 @@
 - 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
 
 ## 📫 How to reach me
-[![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad)
-[![Reddit](https://img.shields.io/badge/Reddit-white?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
-[![Mastodon](https://img.shields.io/badge/Mastodon-white?style=flat-square&logo=Mastodon)](https://mastodon.social/@iAhmadGad)
-[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
-[![Scratch](https://img.shields.io/badge/Scratch-white?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad)
+[![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iAhmadGad)
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad)
+[![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
+[![Mastodon](https://img.shields.io/badge/Mastodon-black?style=flat-square&logo=Mastodon)](https://mastodon.social/@iAhmadGad)
+[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
+[![Scratch](https://img.shields.io/badge/Scratch-black?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad)
+
 ## 📊 Stats
 <details>
 <summary><b> Most Used Languages </b></summary>
