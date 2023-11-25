@@ -14,10 +14,12 @@
 - 👀 I’m interested in Java, C & Problem solving
 - 💞️ I’m looking to collaborate on Github
 - 🧐 Wanna know more about me? well, read [_**My life in brief**_](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
-
+  
 ## 📫 How to reach me
 [![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iAhmadGad)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
+[![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/iAhmadGad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/580785454782218270)
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
