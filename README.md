@@ -22,9 +22,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=flat-square&logo=Facebook)](https://www.facebook.com/iAhmadGad)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/580785454782218270)
-[![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/u/iAhmadGad)
-[![Mastodon](https://img.shields.io/badge/Mastodon-black?style=flat-square&logo=Mastodon)](https://mastodon.social/@iAhmadGad)
-[![Scratch](https://img.shields.io/badge/Scratch-black?style=flat-square&logo=Scratch&logoColor=orange)](https://scratch.mit.edu/users/iAhmadGad)
 
 ## 📊 Stats
 <details>
