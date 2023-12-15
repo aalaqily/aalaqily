@@ -1,5 +1,5 @@
-<h2 align="center">iAhmadGad<br/></h2>
-<p align="center">
+<h2 align = "center">Gelobt Clavdiv Germanv<br/></h2>
+<p align = "center">
 يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
 – أَحْمَد شَوْقِي –</p>
@@ -16,7 +16,8 @@
 - 🧐 Wanna know more about me? well, read [**My life in brief**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
 
 ## 🎖️ Badges
-[![Codewars badge](https://www.codewars.com/users/iAhmadGad/badges/micro)](https://www.codewars.com/users/iAhmadGad)
+[![Project Euler Badge](https://projecteuler.net/profile/iAhmadGad.png)](https://projecteuler.net/progress=iAhmadGad)
+[![Codewars Badge](https://www.codewars.com/users/iAhmadGad/badges/micro)](https://www.codewars.com/users/iAhmadGad)
 
 ## 📫 How to reach me
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/user/iAhmadGad)
@@ -26,6 +27,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/iAhmadGad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/iAhmadGad)
+[![Codewars](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
 
 ## 📊 Stats
 <details>
