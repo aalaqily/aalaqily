@@ -1,10 +1,9 @@
-<h2 align = "center">Gelobt Clavdiv Germanv<br/></h2>
+<h2 align = "center">Ahmad Asaad<br/></h2>
 <p align = "center">
 يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
 – أَحْمَد شَوْقِي –</p>
 
-## 👋🏼 Hello World
 - 👋🏼 Hello world, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md)
 - ☕ Retarded introvert, veteran meme lord - with honours -, Java nerd & problem solver 
 - 🌚 A 16-year-old boy, who loves Mathematics, Physics, Theoretical Computer Science, Programming & anything related
@@ -14,6 +13,7 @@
 - 👀 I’m interested in Java, C++ & Problem solving
 - 💞️ I’m looking to collaborate on Github
 - 🧐 Wanna know more about me? well, read [**My life in brief**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
+
 
 ## 🎖️ Badges
 [![Project Euler Badge](https://projecteuler.net/profile/iAhmadGad.png)](https://projecteuler.net/progress=iAhmadGad)
@@ -27,28 +27,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/iAhmadGad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/iAhmadGad)
-[![Codewars](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
+[![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
 
-## 📊 Stats
-<details>
-<summary><b> Most Used Languages </b></summary>
-<br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iAhmadGad&show_icons=true&locale=en&layout=compact" alt="Top Languages"></p> 
-</details>
-
-<details>
-<summary><b> GitHub Stats </b></summary>
-<br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iAhmadGad&show_icons=true&locale=en" alt="Stats"></p>
-</details>
-
-<details>
-<summary><b> Streak Stats</b></summary>
-<br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iAhmadGad" alt="Streak Stats"></p>
-</details>
-
-## 📄 Repo Index
+## 🌚 More
 <!--- [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates) --->
 - [**📝 Autobiography**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography)
 
