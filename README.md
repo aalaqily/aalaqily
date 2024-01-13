@@ -4,7 +4,7 @@
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
 – أَحْمَد شَوْقِي –</p>
 
-- 👋🏼 Hello world, I’m [**Ahmad**](https://github.com/iAhmadGad/iAhmadGad/blob/main/Autobiography/Ahmad.md)
+- 👋🏼 Hello world, I’m **Ahmad**
 - ☕ Retarded introvert, veteran meme lord - with honours -, Java nerd & problem solver 
 - 🌚 A 16-year-old boy, who loves Mathematics, Physics, Theoretical Computer Science, Programming & anything related
 - ☁️ Dreams to become a physicist
