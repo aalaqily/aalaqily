@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning Java & C++ & studying CS50x
 - 👀 I’m interested in Java, C++ & Problem solving
 - 💞️ I’m looking to collaborate on Github
-- 🧐 Wanna know more about me? well, read [**My life in brief**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography/My_life_in_brief.md)
-
 
 ## 🎖️ Badges
 [![Project Euler Badge](https://projecteuler.net/profile/iAhmadGad.png)](https://projecteuler.net/progress=iAhmadGad)
@@ -28,10 +26,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/iAhmadGad)
 [![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
-
-## 🌚 More
-<!--- [**🎓 Certificates**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Certificates) --->
-- [**📝 Autobiography**](https://github.com/iAhmadGad/iAhmadGad/tree/main/Autobiography)
 
 <!--- --->
 <!---
