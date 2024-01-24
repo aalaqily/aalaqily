@@ -24,6 +24,5 @@ jobs:
           plugin_topics_limit: 50
           plugin_topics_mode: icons
           plugin_gists: yes
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
-          config_order: base.header, isocalendar, languages, topics, gists, leetcode
+          plugin_traffic: yes
+          config_order: base.header, isocalendar, traffic, gists, languages, topics
