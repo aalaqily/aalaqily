@@ -1,5 +1,5 @@
-<h2 align = "center">Ahmad Asaad<br/></h2>
-<p align = "center">
+<h2 align="center">Ahmad Asaad<br/></h2>
+<p align="center">
 يا أَحمَدَ الخَيرِ لِي جاهٌ بِتَسمِيَتي <br/>
 وَكَيفَ لا يَتَسامى بِالرَسولِ سَمي<br/>
 – أَحْمَد شَوْقِي –</p>
@@ -27,8 +27,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/iAhmadGad)
 [![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
 
-<!--- --->
-<!---
-iAhmadGad/iAhmadGad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Github Metrics
+<p align="center">
+<img src="https://raw.githubusercontent.com/iAhmadGad/iAhmadGad/main/github-metrics.svg" alt="Github metrics" align="center">
+</p>
