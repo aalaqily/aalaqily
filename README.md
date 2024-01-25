@@ -8,7 +8,7 @@ Ahmad Asaad
 Ahmad@localhost: ~ $ echo $ABOUT
 name: Ahmad
 age: 16
-birthday: 14.5.2007
+birthday: 14.5
 grade: 11
 pronouns: {He,  him}
 from: Egypt 🇪🇬
