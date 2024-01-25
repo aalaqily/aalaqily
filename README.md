@@ -16,6 +16,4 @@ lives_in: Saudi Arabia 🇸🇦
 hobbies: {Coding, Problem solving, Solving maths homework}
 spoken_languages: {Arabic, English, a bit of German}
 programming_languages: {Java, Python, C, C++, Haskell}
-Ahmad@localhost: ~ $ ls
-README.md how_to_reach_me.md
 ```
