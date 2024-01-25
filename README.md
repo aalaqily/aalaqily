@@ -8,12 +8,12 @@ Ahmad Asaad
 Ahmad@localhost: ~ $ echo $ABOUT
 name: Ahmad
 age: 16
-birthday: 14 - 5
+birthday: 14.5.2007
 grade: 11
-pronouns: He - him
+pronouns: {He,  him}
 from: Egypt 🇪🇬
 lives_in: Saudi Arabia 🇸🇦
-hobbies: Coding, problem solving, solving maths homework
-spoken_languages: Arabic, English, a bit of German
-programming_languages: Java, Python, C, C++, Haskell
+hobbies: {Coding, Problem solving, Solving maths homework}
+spoken_languages: {Arabic, English, a bit of German}
+programming_languages: {Java, Python, C, C++, Haskell}
 ```
