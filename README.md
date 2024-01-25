@@ -15,5 +15,5 @@ from: Egypt 🇪🇬
 lives_in: Saudi Arabia 🇸🇦
 hobbies: {Coding, Problem solving, Solving maths homework}
 spoken_languages: {Arabic, English, a bit of German}
-programming_languages: {Java, Python, C, C++, Haskell}
+programming_languages: {Java ☕, Python 🐍, C 👀, C++ 👀👀, Haskell λ}
 ```
