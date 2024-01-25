@@ -1,7 +1,7 @@
 ```shell
-~ $ whoami
+Ahmad@localhost: ~ $ whoami
 Ahmad Asaad
-~ $ echo $INFO
+Ahmad@localhost: ~ $ echo $ABOUT
 name: Ahmad
 age: 16
 birthday: 14 - 5
