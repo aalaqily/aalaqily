@@ -1,3 +1,4 @@
+```shell
 ~ $ whoami
 Ahmad Asaad
 ~ $ echo $INFO
@@ -11,3 +12,4 @@ lives_in: Saudi Arabia
 hobbies: Coding, problem solving, solving maths homework
 spoken_languages: Arabic, English, a bit of German
 programming_languages: Java, Python, C, C++, Haskell
+```
