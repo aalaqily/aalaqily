@@ -20,5 +20,5 @@ scripting_languages: {JavaScript ☕, BashScript $_}
 operating_systems: {Windows 10 🏠, Arch Linux Λ, Debian 🐂}
 environments: {OpenJDK ☕, GraalVM ☕, MinGW 🐂, Node.js ☕, Termux >_, Proot-Distro 🐂}
 ides_and_editors: {Eclipse 📎, VS Code 💻, Nano ⚛️, Emacs Σ, Spacemacs 🚀}
-package_managers: {apt, apt-get, pip, pipx, sdk, npm}
+package_managers: {pacman, apt, apt-get, pip, pipx, sdk, npm}
 ```
