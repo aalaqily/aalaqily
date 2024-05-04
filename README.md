@@ -24,6 +24,7 @@ about badges links
 [![Project Euler Badge](https://projecteuler.net/profile/iAhmadGad.png)](https://projecteuler.net/progress=iAhmadGad)
 [![Codewars Badge](https://www.codewars.com/users/iAhmadGad/badges/micro)](https://www.codewars.com/users/iAhmadGad)
 # Links
+[![iahmadgad.github.io](https://img.shields.io/badge/iahmadgad.github.io-black?style=flat-square&logo=GitHub)](https://iahmadgad.github.io/)
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/user/iAhmadGad)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/580785454782218270)
 [![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iAhmadGad)
