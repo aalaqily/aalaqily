@@ -14,12 +14,10 @@ about badges links
 # About
 - 👋🏼 Hello world, I’m **Ahmad**
 - ☕ Retarded introvert, veteran meme lord - with honours -, Java nerd & problem solver 
-- 🌚 A 16-year-old boy, who loves Mathematics, Physics, Theoretical Computer Science, Programming & anything related
 - ☁️ Dreams to become a physicist
 - ♂️ Pronouns: He, him
-- 🌱 I’m currently learning Java & C++ & studying CS50x
-- 👀 I’m interested in Java, C++ & Problem solving
-- 💞️ I’m looking to collaborate on Github
+- 🌱 I’m currently studying CS50x
+- 👀 I’m interested Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving & anything related
 # Badges
 [![Project Euler Badge](https://projecteuler.net/profile/iAhmadGad.png)](https://projecteuler.net/progress=iAhmadGad)
 [![Codewars Badge](https://www.codewars.com/users/iAhmadGad/badges/micro)](https://www.codewars.com/users/iAhmadGad)
