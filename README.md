@@ -2,8 +2,8 @@
   Ahmad Asaad<br>
   🔻<br>
   <img src="https://github.com/iahmadgad/iahmadgad/blob/main/assets/0.png"> 
-  <img src="https://projecteuler.net/profile/iAhmadGad.png" href="https://projecteuler.net/progress=iAhmadGad"> 
-  <img src="https://www.codewars.com/users/iAhmadGad/badges/micro" href="https://www.codewars.com/users/iAhmadGad">
+  <a href="https://projecteuler.net/progress=iAhmadGad"><img src="https://projecteuler.net/profile/iAhmadGad.png"></a> 
+  <a href="https://www.codewars.com/users/iAhmadGad"><img src="https://www.codewars.com/users/iAhmadGad/badges/micro"></a>
 </h2>
 
 - 👋🏼 Hello world, I’m **Ahmad**
