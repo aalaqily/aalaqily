@@ -1,10 +1,9 @@
-<h2 align="center">
+<h1 align="center">
   Ahmad Asaad<br>
-  🔻<br>
   <img src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Ghaza/badge0.png"> 
   <a href="https://projecteuler.net/progress=iAhmadGad"><img src="https://projecteuler.net/profile/iAhmadGad.png"></a> 
   <a href="https://www.codewars.com/users/iAhmadGad"><img src="https://www.codewars.com/users/iAhmadGad/badges/micro"></a>
-</h2>
+</h1>
 
 - 👋🏼 Hello world, I’m **Ahmad**
 - ☕ Retarded introvert, veteran meme lord - with honours -, Java nerd, Linux enthusiast & problem solver 
