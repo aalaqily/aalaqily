@@ -1,20 +1,52 @@
 # CS50
 
-Currently taking 2 CS50 courses: CS50X & CS50P
+<table>
+  <tr>
+    <th align="center">CS50X</th>
+    <th align="center">CS50P</th>
+  </tr>
+  <tr>
+    <td align="center">
+      In progress
+    </td>
+    <td align="center">
+      In progress
+    </td>
+  </tr>
+</table>
 
 # HackerRank
-## Python (Basic)
-<img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Python-Basic/certificate.png">
+<table>
+  <tr>
+    <th align="center">Python (Basic)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Python-Basic/certificate.png">
+    </td>
+  </tr>
+</table>
 
 # Codeliber
-## Learn HTML _- Jul 4, 2023_
-<img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Learn-HTML/certificate.jpg">
-
-## Learn CSS _- Jul 5, 2023_
-<img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Learn-CSS/certificate.jpg">
-
-## Learn JavaScript _- Jul 8, 2023_
-<img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Learn-JavaScript/certificate.jpg">
-
-## Python Tutorial  _- Jul 15, 2023_
-<img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Python-Tutorial/certificate.jpg">
+<table>
+  <tr>
+    <th align="center">Learn HTML</th>
+    <th align="center">Learn CSS</th>
+    <th align="center">Learn Javascript</th>
+    <th align="center">Python Tutorial</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Python-Tutorial/certificate.jpg" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Learn-JavaScript/certificate.jpg" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Learn-HTML/certificate.jpg" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/Codeliber/Learn-CSS/certificate.jpg" alt="">
+    </td>
+  </tr>
+</table>
