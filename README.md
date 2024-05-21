@@ -6,11 +6,11 @@
 </h1>
 
 - 👋🏼 Hello world, I’m **Ahmad**
-- ☕ Retarded introvert, veteran meme lord - with honours -, Java nerd, Linux enthusiast & problem solver 
+- ☕ {Retarded introvert, veteran meme lord - with honours -, Java nerd, Linux enthusiast, problem solver} 
 - ☁️ Dreams to become a physicist
-- 🚶‍♂️ Pronouns: He, him
+- 🚶‍♂️ Pronouns: {He, him}
 - 🌱 I’m currently studying CS50
-- 👀 I’m interested Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving & anything related
+- 👀 I’m interested in {Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving} & anything related
 
 # Links
 [![iahmadgad.github.io](https://img.shields.io/badge/iahmadgad.github.io-black?style=flat-square&logo=GitHub)](https://iahmadgad.github.io/)
