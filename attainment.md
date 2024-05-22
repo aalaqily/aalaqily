@@ -34,10 +34,10 @@
 # Codeliber
 <table>
   <tr>
+    <th align="center">Python Tutorial</th>
+    <th align="center">Learn Javascript</th>
     <th align="center">Learn HTML</th>
     <th align="center">Learn CSS</th>
-    <th align="center">Learn Javascript</th>
-    <th align="center">Python Tutorial</th>
   </tr>
   <tr>
     <td align="center">
