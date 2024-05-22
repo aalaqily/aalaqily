@@ -26,7 +26,7 @@
       <img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Python-Basic/certificate.png">
     </td>
     <td align="center">
-      <img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Python-Basic/certificate.jpg">
+      <img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Java-Basic/certificate.jpg">
     </td>
   </tr>
 </table>
