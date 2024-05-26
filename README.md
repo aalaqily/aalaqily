@@ -10,7 +10,7 @@
 - 🚶‍♂️ Pronouns: {He, him}
 - 🌱 I’m currently studying CS50
 - 👀 I’m interested in {Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving} & anything related
-- 📚 Read [Attainment](https://github.com/iahmadgad/iahmadgad/blob/main/attainment.md) and visit [iahmadgad.github.io](https://img.shields.io/badge/iahmadgad.github.io-black?style=flat-square&logo=GitHub)
+- 📚 Read [Attainment](https://github.com/iahmadgad/iahmadgad/blob/main/attainment.md) and visit [iahmadgad.github.io](https://iahmadgad.github.io)
 
 # Links
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/user/iAhmadGad)
