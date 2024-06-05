@@ -17,7 +17,6 @@
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/580785454782218270)
 [![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iAhmadGad)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
-[![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/profile/iAhmadGad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/iAhmadGad)
 [![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
