@@ -15,23 +15,8 @@
   </tr>
 </table>
 
-# HackerRank
-<table>
-  <tr>
-    <th align="center">Python (Basic)</th>
-    <th align="center">Java (Basic)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Python-Basic/certificate.png">
-    </td>
-    <td align="center">
-      <img width="200" src="https://github.com/iahmadgad/iahmadgad/blob/main/files/HackerRank/Java-Basic/certificate.jpg">
-    </td>
-  </tr>
-</table>
-
 # Codeliber
+
 <table>
   <tr>
     <th align="center">Python Tutorial</th>
