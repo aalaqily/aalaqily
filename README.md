@@ -4,6 +4,7 @@
   <a href="https://www.codewars.com/users/iAhmadGad"><img src="https://www.codewars.com/users/iAhmadGad/badges/micro"></a>
 </h1>
 
+# whoami
 - 👋🏼 Hello world, I’m **Ahmad**
 - ☕ {Retarded introvert, veteran meme lord - with honours -, Java nerd, Linux enthusiast, problem solver} 
 - ☁️ Dreams to become a physicist
