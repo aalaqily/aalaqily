@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png"> 
-  <a href="https://projecteuler.net/progress=iAhmadGad"><img src="https://projecteuler.net/profile/iAhmadGad.png"></a><br>
-  <a href="https://www.codewars.com/users/iAhmadGad"><img src="https://www.codewars.com/users/iAhmadGad/badges/micro"></a>
+  <a href="https://projecteuler.net/progress=0xAhmad"><img src="https://projecteuler.net/profile/0xAhmad.png"></a><br>
+  <a href="https://www.codewars.com/users/0xAhmad"><img src="https://www.codewars.com/users/0xAhmad/badges/micro"></a>
 </h1>
 
 # whoami
@@ -19,6 +19,6 @@
 [![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iAhmadGad)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
-[![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/iAhmadGad)
-[![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=iAhmadGad)
+[![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/0xAhmad)
+[![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=0xAhmad)
 [![scratch](https://img.shields.io/badge/Scratch-black?style=flat-square&logo=Scratch)](https://projecteuler.net/progress=iAhmadGad)
