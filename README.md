@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png"> 
   <a href="https://projecteuler.net/progress=0xAhmad"><img src="https://projecteuler.net/profile/0xAhmad.png"></a><br>
   <a href="https://www.codewars.com/users/0xAhmad"><img src="https://www.codewars.com/users/0xAhmad/badges/micro"></a>
-</h1>
+</p>
 
 # `whoami`
 - 👋🏼 Hello world, I’m **Ahmad**
