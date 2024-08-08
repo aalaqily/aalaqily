@@ -4,7 +4,7 @@
   <a href="https://www.codewars.com/users/0xAhmad"><img src="https://www.codewars.com/users/0xAhmad/badges/micro"></a>
 </h1>
 
-# whoami
+# `whoami`
 - 👋🏼 Hello world, I’m **Ahmad**
 - ☕ {Retarded introvert, veteran meme lord - with honours -, Java nerd, Linux enthusiast, problem solver} 
 - ☁️ Dreams to become a physicist
@@ -13,7 +13,7 @@
 - 👀 I’m interested in {Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving} & anything related
 - 📚 Read [Attainment](https://github.com/iahmadgad/iahmadgad/blob/main/attainment.md) and visit [iahmadgad.github.io](https://iahmadgad.github.io)
 
-# Links
+# `ln`
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=Reddit)](https://www.reddit.com/user/iAhmadGad)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/580785454782218270)
 [![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iAhmadGad)
