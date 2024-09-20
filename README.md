@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png"> 
-  <a href="https://projecteuler.net/progress=0xAhmad"><img src="https://projecteuler.net/profile/0xAhmad.png"></a><br>
-  <a href="https://www.codewars.com/users/0xAhmad"><img src="https://www.codewars.com/users/0xAhmad/badges/micro"></a>
+  <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png">
 </p>
 
 # `whoami`
@@ -21,3 +19,9 @@
 [![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/0xAhmad)
 [![Project Euler](https://img.shields.io/badge/Project_Euler-black?style=flat-square)](https://projecteuler.net/progress=0xAhmad)
 [![scratch](https://img.shields.io/badge/Scratch-black?style=flat-square&logo=Scratch)](https://projecteuler.net/progress=iAhmadGad)
+
+# `ls badges`
+| [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/iahmadgad) |
+| -------- | ------- | ------- |
+
+
