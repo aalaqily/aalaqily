@@ -26,7 +26,7 @@
 | -------- | ------- | ------- |
 
 # `cat metrics`
-| ![Github Metrics](https://raw.githubusercontent.com/iahmadgad/iahmadgad-metrics/refs/heads/main/github-metrics.svg) | ![Github Metrics](https://raw.githubusercontent.com/iahmadgad/iahmadgad-metrics/refs/heads/main/github-metrics-right.svg) |
+| ![Github Metrics](https://raw.githubusercontent.com/iahmadgad/iahmadgad/refs/heads/metrics/github-metrics.svg) | ![Github Metrics](https://raw.githubusercontent.com/iahmadgad/iahmadgad/refs/heads/metrics/github-metrics-right.svg) |
 | -------- | ------- |
 
 <!---Variables go down there 👇-->
