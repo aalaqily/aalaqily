@@ -11,30 +11,28 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with: 
-          fetch-depth: 0
       - name: Checkout metrics branch
-        run: git checkout metrics
+        uses: actions/checkout@v4
+        with:
+          ref: metrics
       ### GitHub Account Metrics
       - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: iahmadgad-metrics.svg
           base: header, repositories, metadata
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
       - name: GitHub Metrics (Right)
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics-right.svg
+          filename: iahmadgad-right.metrics.svg
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user, repositories
@@ -43,12 +41,12 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_details: lines, bytes-size, percentage
           token: ${{ secrets.METRICS_TOKEN }}
-      
+
       ### Repos Metrics
       - name: Java JSON Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: json-java-metrics.svg
+          filename: json-java.metrics.svg
           template: repository
           repo: json-java
           plugin_lines: yes
@@ -58,7 +56,7 @@ jobs:
       - name: Hakam Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: hakam-metrics.svg
+          filename: hakam.metrics.svg
           template: repository
           repo: hakam
           plugin_lines: yes
@@ -68,7 +66,7 @@ jobs:
       - name: Java Randoms Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: randoms-java-metrics.svg
+          filename: randoms-java.metrics.svg
           template: repository
           repo: randoms-java
           plugin_lines: yes
@@ -78,7 +76,7 @@ jobs:
       - name: Rust Randoms Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: randoms-rs-metrics.svg
+          filename: randoms-rs.metrics.svg
           template: repository
           repo: randoms-rs
           plugin_lines: yes
@@ -88,15 +86,17 @@ jobs:
       - name: Termux Clock Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: termux-clock-metrics.svg
+          filename: termux-clock.metrics.svg
           template: repository
           repo: termux-clock
           plugin_lines: yes
           plugin_followup: yes
           token: ${{ secrets.METRICS_TOKEN }}
 
-      - name: Push changes
-        run: git push origin metrics
 
-      - name: Checkout main branch
-        run: git checkout main
+      - name: Commit changes & push
+        run: |
+          git add -A
+          git commit -m "Automated: Generate Metrics"
+          git push origin metrics
+
