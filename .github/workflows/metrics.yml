@@ -20,7 +20,7 @@ jobs:
       - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: iahmadgad-metrics.svg
+          filename: iahmadgad.metrics.svg
           base: header, repositories, metadata
           plugin_lines: yes
           committer_branch: metrics
