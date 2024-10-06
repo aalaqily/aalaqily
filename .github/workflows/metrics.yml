@@ -94,3 +94,9 @@ jobs:
           plugin_lines: yes
           plugin_followup: yes
           token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Push changes
+        run: git push origin metrics
+
+      - name: Checkout main branch
+        run: git checkout main
