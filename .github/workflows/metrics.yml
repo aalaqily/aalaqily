@@ -16,10 +16,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout metrics branch
-        uses: actions/checkout@v4
-        with:
-          ref: metrics
       ### GitHub Account Metrics
       - name: GitHub Metrics
         uses: lowlighter/metrics@latest
@@ -27,6 +23,7 @@ jobs:
           filename: iahmadgad-metrics.svg
           base: header, repositories, metadata
           plugin_lines: yes
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: GitHub Metrics (Right)
@@ -40,6 +37,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 4
           plugin_languages_details: lines, bytes-size, percentage
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
 
       ### Repos Metrics
@@ -51,6 +49,7 @@ jobs:
           repo: json-java
           plugin_lines: yes
           plugin_followup: yes
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Hakam Metrics
@@ -61,6 +60,7 @@ jobs:
           repo: hakam
           plugin_lines: yes
           plugin_followup: yes
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Java Randoms Metrics
@@ -71,6 +71,7 @@ jobs:
           repo: randoms-java
           plugin_lines: yes
           plugin_followup: yes
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Rust Randoms Metrics
@@ -81,6 +82,7 @@ jobs:
           repo: randoms-rs
           plugin_lines: yes
           plugin_followup: yes
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Termux Clock Metrics
@@ -91,12 +93,5 @@ jobs:
           repo: termux-clock
           plugin_lines: yes
           plugin_followup: yes
+          committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
-
-
-      - name: Commit changes & push
-        run: |
-          git add -A
-          git commit -m "Automated: Generate Metrics"
-          git push origin metrics
-
