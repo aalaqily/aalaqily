@@ -95,3 +95,27 @@ jobs:
           plugin_followup: yes
           committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
+
+
+      - name: Java Math Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: math-java.metrics.svg
+          template: repository
+          repo: math-java
+          plugin_lines: yes
+          plugin_followup: yes
+          committer_branch: metrics
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Java Calculator Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: termux-clock.metrics.svg
+          template: repository
+          repo: calculator-java
+          plugin_lines: yes
+          plugin_followup: yes
+          committer_branch: metrics
+          token: ${{ secrets.METRICS_TOKEN }}
+
