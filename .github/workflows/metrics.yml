@@ -111,7 +111,7 @@ jobs:
       - name: Java Calculator Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: termux-clock.metrics.svg
+          filename: calculator-java.metrics.svg
           template: repository
           repo: calculator-java
           plugin_lines: yes
