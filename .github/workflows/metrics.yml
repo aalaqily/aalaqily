@@ -15,8 +15,7 @@ jobs:
       name: production
     permissions:
       contents: write
-    steps:
-      ### GitHub Account Metrics
+    steps:
       - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -39,83 +38,3 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           committer_branch: metrics
           token: ${{ secrets.METRICS_TOKEN }}
-
-      ### Repos Metrics
-      - name: Java JSON Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: json-java.metrics.svg
-          template: repository
-          repo: json-java
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Hakam Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: hakam.metrics.svg
-          template: repository
-          repo: hakam
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Java Randoms Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: randoms-java.metrics.svg
-          template: repository
-          repo: randoms-java
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Rust Randoms Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: randoms-rs.metrics.svg
-          template: repository
-          repo: randoms-rs
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Termux Clock Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: termux-clock.metrics.svg
-          template: repository
-          repo: termux-clock
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
-
-      - name: Java Math Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: math-java.metrics.svg
-          template: repository
-          repo: math-java
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Java Calculator Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: calculator-java.metrics.svg
-          template: repository
-          repo: calculator-java
-          plugin_lines: yes
-          plugin_followup: yes
-          committer_branch: metrics
-          token: ${{ secrets.METRICS_TOKEN }}
-
