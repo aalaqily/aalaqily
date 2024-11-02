@@ -5,20 +5,21 @@
 # `whoami`
 - 👋🏼 Hello world, I’m: **Ahmad**
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
-- ☁️ I deam to: become a physicist
-- 🌱 I’m currently: {studying CS50, learning Rust}
+- ☁️ I dream to: become a physicist
+- 🌱 I’m currently: {in the last year of school, studying CS50, learning Rust}
 - 👀 I’m interested in: {Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving}.and(anything related)
 - 🚶‍♂️ Visit: [iahmadgad.github.io](https://iahmadgad.github.io)
 
 # `ln`
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/580785454782218270)
-[![Github Gist](https://img.shields.io/badge/Github_Gist-black?style=flat-square&logo=Github)](https://gist.github.com/iahmadgad)
-[![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/0xAhmad)
+[![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab)](https://gitlab.com/iahmadgad)
+[![Github Gist](https://img.shields.io/badge/GitHub_Gist-black?style=flat-square&logo=github)](https://gist.github.com/iahmadgad)
+[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discord.com/users/580785454782218270)
+[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces)](https://codeforces.com/profile/iAhmadGad)
+[![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=codewars)](https://www.codewars.com/users/0xAhmad)
 [![Project Euler][Project Euler Badge]](https://projecteuler.net/progress=0xAhmad)
 [![Exercism][Exercism badge]](https://exercism.org/profiles/iahmadgad)
-[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/iAhmadGad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/iAhmadGad)
-[![scratch](https://img.shields.io/badge/Scratch-black?style=flat-square&logo=Scratch)](https://scratch.mit.edu/users/iAhmadGad/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode)](https://leetcode.com/iAhmadGad)
+[![scratch](https://img.shields.io/badge/Scratch-black?style=flat-square&logo=scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 
 # `ls badges`
 | [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/iahmadgad) |
