@@ -4,7 +4,7 @@
   <a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand with palestine"></a>
 </p>
 
-# whoami
+# `whoami`
 - 👋🏼 Hello world, I’m: Ahmad
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
