@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/badges/ghaza.png">
+  <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/badges/ghaza.png" alt="Stands with Ghaza"><br/>
+  <a href="https://techforpalestine.org/learn-more"><img src="https://badge.techforpalestine.org/default" alt="Ceasefire now"></a>
+  <a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand with palestine"></a>
 </p>
 
-# `whoami`
-- 👋🏼 Hello world, I’m: **Ahmad**
+# whoami
+- 👋🏼 Hello world, I’m: Ahmad
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
-- 🌱 I’m currently: {in the last year of school, studying CS50, learning Rust}
+- 🌱 I’m currently: {in my final year of secondary school, studying CS50, learning Rust}
 - 👀 I’m interested in: {Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving}.and(anything related)
 - 🚶‍♂️ Visit: [iahmadgad.github.io](https://iahmadgad.github.io)
 
