@@ -5,7 +5,7 @@
 </p>
 
 # `whoami`
-- 👋🏼 Hello world, I’m: Ahmad
+- 👋🏼 Hello world, I’m: **Ahmad** _(Pronounced as: **[ˈ(ʔ)aħmad]**)_
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
 - 🌱 I’m currently: {in my final year of secondary school, studying CS50, learning Rust}
