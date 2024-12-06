@@ -9,7 +9,7 @@
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
 - 🌱 I’m currently: {in my final year of secondary school, studying CS50, learning Rust}
-- 👀 I’m interested in: {Mathematics, Physics, Theoretical Computer Science, Programming, Problem solving}.and(anything related)
+- 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
 - 🚶‍♂️ Visit: [iahmadgad.github.io](https://iahmadgad.github.io)
 
 # `ln`
