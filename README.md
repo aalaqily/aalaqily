@@ -6,7 +6,7 @@
   <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand with palestine"></a>
 </p>
 
-# `whoami`
+# <samp>whoami</samp>
 - 👋🏼 Hello world, I’m: **Ahmad** _(Pronounced as: **[ˈ(ʔ)aħmad]**)_
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
@@ -14,7 +14,7 @@
 - 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
 - 🚶‍♂️ Visit: [iahmadgad.github.io](https://iahmadgad.github.io)
 
-# `ln`
+# <samp>ln</samp>
 [![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/iahmadgad)
 [![Github Gist](https://img.shields.io/badge/GitHub_Gist-black?logo=github)](https://gist.github.com/iahmadgad)
 [![Discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/580785454782218270)
@@ -25,7 +25,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/iAhmadGad)
 [![scratch](https://img.shields.io/badge/Scratch-black?logo=scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 
-# `ls stack`
+# <samp>ls stack</samp>
 ![Java][Java badge]
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
@@ -40,7 +40,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20linux-black?logo=archlinux)
 ![Termux](https://img.shields.io/badge/⟩__%20Termux-black)
 
-# `ls badges`
+# <samp>ls badges</samp>
 | [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/iahmadgad) |
 | -------- | ------- | ------- |
 
