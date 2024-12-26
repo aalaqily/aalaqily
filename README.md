@@ -29,14 +29,20 @@
 [![Java][Java badge]](#)
 [![Rust](https://img.shields.io/badge/Rust-black?logo=rust)](#)
 [![Python](https://img.shields.io/badge/Python-black?logo=python)](#)
-[![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)](#)
+[![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)](#)
+
 [![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
 [![Just](https://img.shields.io/badge/Just-black)](https://github.com/casey/just)
 [![Make](https://img.shields.io/badge/Make-black)](#)
 [![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle)](#)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github-actions)](#)
+
 [![Obsidian](https://img.shields.io/badge/Obsidian-black?logo=obsidian)](#)
 [![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnu-emacs)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipse)](#)
+
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)](#)
 [![Termux](https://img.shields.io/badge/⟩__%20Termux-black)](#)
