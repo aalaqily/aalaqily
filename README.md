@@ -26,19 +26,19 @@
 [![scratch](https://img.shields.io/badge/Scratch-black?logo=scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 
 # <samp>ls stack</samp>
-![Java][Java badge]
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Just](https://img.shields.io/badge/Just-black)
-![Make](https://img.shields.io/badge/Make-black)
-![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle)
-![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnu-emacs)
-![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?logo=eclipse)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)
-![Arch Linux](https://img.shields.io/badge/Arch%20linux-black?logo=archlinux)
-![Termux](https://img.shields.io/badge/⟩__%20Termux-black)
+[![Java][Java badge]](#)
+[![Rust](https://img.shields.io/badge/Rust-black?logo=rust)](#)
+[![Python](https://img.shields.io/badge/Python-black?logo=python)](#)
+[![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)](#)
+[![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
+[![Just](https://img.shields.io/badge/Just-black)](https://github.com/casey/just)
+[![Make](https://img.shields.io/badge/Make-black)](#)
+[![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle)](#)
+[![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnu-emacs)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?logo=eclipse)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)](#)
+[![Termux](https://img.shields.io/badge/⟩__%20Termux-black)](#)
 
 # <samp>ls badges</samp>
 | [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/iahmadgad) |
