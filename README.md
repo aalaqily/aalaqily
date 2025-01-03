@@ -20,7 +20,7 @@
 [![Github Gist](https://img.shields.io/badge/GitHub_Gist-black?logo=github)](https://gist.github.com/iahmadgad)
 [![Discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/580785454782218270)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces)](https://codeforces.com/profile/iAhmadGad)
-[![Codewars](https://img.shields.io/badge/Codewars-black?logo=codewars)](https://www.codewars.com/users/0xAhmad)
+[![Codewars](https://img.shields.io/badge/Codewars-black?logo=codewars&logoColor=f15c56)](https://www.codewars.com/users/0xAhmad)
 [![Project Euler][Project Euler badge]](https://projecteuler.net/progress=0xAhmad)
 [![Exercism][Exercism badge]](https://exercism.org/profiles/iahmadgad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/iAhmadGad)
@@ -28,21 +28,21 @@
 
 # <samp>ls stack</samp>
 [![Java][Java badge]](#)
-[![Rust](https://img.shields.io/badge/Rust-black?logo=rust)](#)
+[![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=fc9a37)](#)
 [![Python](https://img.shields.io/badge/Python-black?logo=python)](#)
 [![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)](#)
 
 [![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
 [![Just](https://img.shields.io/badge/Just-black)](https://github.com/casey/just)
 [![Make](https://img.shields.io/badge/Make-black)](#)
-[![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle)](#)
+[![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle&logoColor=24abc7)](#)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github-actions)](#)
 
-[![Obsidian](https://img.shields.io/badge/Obsidian-black?logo=obsidian)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-black?logo=obsidian&logoColor=4e3984)](#)
 [![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnu-emacs)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipse)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipse&logoColor=FE7A16)](#)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)](#)
@@ -53,7 +53,7 @@
 | -------- | ------- | ------- |
 
 <!---Variables go down there 👇-->
-[Exercism badge]: https://img.shields.io/badge/Exercism-black?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkV4ZXJjaXNtIGljb248L3RpdGxlPjxwYXRoIGQ9Ik00LjM1IDEuNjZjLS45NTkgMC0xLjY4Ni4yOTgtMi4xODEuODkzLS40OTYuNTk1LS43NDQgMS40NjQtLjc0NCAyLjYwNXYzLjQ3NGMwIC44MDUtLjA4NiAxLjQyNC0uMjU5IDEuODU4LS4xNzMuNDM0LS40OTMuODQtLjk2IDEuMjE4LS4xMzguMTEzLS4yMDYuMjA2LS4yMDYuMjc4IDAgLjA3Mi4wNjguMTY1LjIwNS4yNzcuNDc2LjM4Ni43OTguNzk0Ljk2NyAxLjIyNS4xNy40My4yNTMgMS4wNDcuMjUzIDEuODUxdjMuNDYyYzAgMS4xNS4yNSAyLjAyMy43NSAyLjYxOC41LjU5NSAxLjIyNC44OTIgMi4xNzQuODkyaC44ODJjLjM3OSAwIC42MTgtLjAxOC43Mi0uMDU0LjEtLjAzNi4xNS0uMTI3LjE1LS4yNzEgMC0uMjAxLS4xMzMtLjMzNC0uMzk5LS4zOThsLS40ODMtLjEwOWMtMS4wNjMtLjI0MS0xLjU5NS0xLjI5LTEuNTk1LTMuMTQ4di0zLjI5M2MwLTEuMjQ3LS4zMDItMi4xMjctLjkwNi0yLjY0MmwtLjIzLS4xOTNjLS4xMTItLjA5Ni0uMTY4LS4xNjktLjE2OC0uMjE3IDAtLjA1Ni4wNTYtLjEyOS4xNjktLjIxN2wuMjMtLjE5M2MuNjAzLS41MTUuOTA1LTEuMzk1LjkwNS0yLjY0MlY1LjY0MWMwLTEuMTEuMTM1LTEuODguNDA1LTIuMzEuMjctLjQzLjgzMi0uNzYyIDEuNjg1LS45OTUuMjU4LS4wNzMuMzg3LS4xOS4zODctLjM1IDAtLjIxNy0uMjktLjMyNi0uODctLjMyNnptMTQuNDE5LjAyOWMtLjU4IDAtLjg3LjEwOC0uODcuMzI1IDAgLjE2MS4xMjguMjc4LjM4Ni4zNS44NTQuMjMzIDEuNDE2LjU2NSAxLjY4Ni45OTUuMjcuNDMuNDA1IDEuMi40MDUgMi4zMXYzLjI5NGMwIDEuMjQ2LjMwMiAyLjEyNi45MDYgMi42NDFsLjIyOS4xOTNjLjExMy4wODkuMTcuMTYxLjE3LjIxNyAwIC4wNDktLjA1Ny4xMjEtLjE3LjIxN2wtLjIzLjE5M2MtLjYwMy41MTUtLjkwNSAxLjM5Ni0uOTA1IDIuNjQydjMuMjkzYzAgMS44NTgtLjUzMiAyLjkwNy0xLjU5NSAzLjE0OWwtLjQ4NC4xMDhjLS4yNjYuMDY0LS4zOTguMTk3LS4zOTguMzk4IDAgLjE0NS4wNS4yMzUuMTUuMjcyLjEwMi4wMzYuMzQxLjA1NC43Mi4wNTRoLjg4MmMuOTUgMCAxLjY3NS0uMjk4IDIuMTc0LS44OTMuNS0uNTk1Ljc1LTEuNDY3Ljc1LTIuNjE3di0zLjQ2MmMwLS44MDUuMDg0LTEuNDIyLjI1My0xLjg1Mi4xNy0uNDMuNDkxLS44MzguOTY3LTEuMjI0LjEzNy0uMTEzLjIwNS0uMjA1LjIwNS0uMjc4IDAtLjA3Mi0uMDY4LS4xNjUtLjIwNS0uMjc3LS40NjgtLjM3OC0uNzg4LS43ODQtLjk2MS0xLjIxOC0uMTczLS40MzUtLjI2LTEuMDU0LS4yNi0xLjg1OFY1LjE4N2MwLTEuMTQyLS4yNDctMi4wMS0uNzQzLTIuNjA2LS40OTUtLjU5NS0xLjIyMi0uODkyLTIuMTgtLjg5MnpNNy42ODMgOS43MzVjLTEuNDU2IDAtMi42NCAxLjExMS0yLjY0IDIuNDc4aDEuMDJjMC0uODM4LjcyNy0xLjUyIDEuNjItMS41Mi44OTIgMCAxLjYxOS42ODIgMS42MTkgMS41MmgxLjAyYzAtMS4zNjctMS4xODMtMi40NzgtMi42NC0yLjQ3OHptOC40MDYgMGMtMS40NTYgMC0yLjYzOSAxLjExMS0yLjYzOSAyLjQ3OGgxLjAyYzAtLjgzOC43MjctMS41MiAxLjYyLTEuNTIuODkyIDAgMS42Mi42ODIgMS42MiAxLjUyaDEuMDJjMC0xLjM2Ny0xLjE4NS0yLjQ3OC0yLjY0LTIuNDc4ek05LjcxIDE0LjM2di41NjFjMCAxLjI3NyAxLjA2MiAyLjMxNiAyLjM2NiAyLjMxNiAxLjMwNSAwIDIuMzY3LTEuMDM5IDIuMzY3LTIuMzE2di0uNTZoLS45MzR2LjU2YzAgLjg3Ny0uNzYgMS40MjYtMS40MzMgMS40MjZzLTEuNDgtLjI3My0xLjQ4LTEuNDI2di0uNTZ6Ii8+PC9zdmc+
+[Exercism badge]: https://img.shields.io/badge/Exercism-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfpAQMVJzLateTKAAADb0lEQVRIx5XVTYiWVRQH8N99vt4ZR0cdv5hGNHVsU6OLLD9WUYuIygjCalUQhAlFQa5DIggpCPpSEoQWrWyjhlhtK4KmMUvStGhVCSmi7zjjzLzvbfFc9Z1Ra/pvHjj33HP+95zzP08YFAXXEU3HmWmnN2Lwhhuu3QgoGmhhil7ciwFcwBe4bHbowX2Yhz8i3xc0c2QRGQsL9uQcynkhsDh0MPk3JJ8QWJ7zas6Rgncz5keEdfUTn458gtNtHpnil3YKcHoWJQo1SSV3Bg5hZeBJHMjK+mCoQsWxuZyZi3wWwa/2KE81msPJipGKrGR9iawRqJiTElzMaDdwclYFqnFS0ECDVsXFFKu7gaKc7hs7p+D/oEKekbU7jCFNUZxuu8ngzS7BZLv+dtItqukBg8BU5B7RVGpeA20sUI/0+bpvJtKlEktwBeMzyGbdkcb1HoxV2FkHXIOtkY1/U/VjJQbVB+P0Rh6IPDTJ0iIRrRhPsXq6URQsy1mfXvFDK7KPrf3sbHK2wZLVfN3HrgnGW+iifxVvX6QvMjGPos3OihOR44n9usDirOLNig0VBwOfbqZnDc8Nsq/Jttt5fpBNA2xYgduwisfXYoCnFrNtkBOreLYZyDlQcaRkY8kbRc5ooB3o6qJcRLPBa3M5NZ/2Lk59wI4255LqRY4WHMaFBpaze5IlI3i4Lm+ItV8rbBcXBQ5iS2BHzod3dDR+GNuxKXA08mCeOp7wXqx9A36uTTsi7+OryGNFGZzLop+wBXfFwK+Rd5IaNoheZHOM1q7m47danOeJUA/M4eHk97IoD2TRUMr9Yzs4V3TXbMeSuBozRTBQn3d38ehSDg3Q/ottY/ViNNwxqmV9tyuZRmsddDwRcabQVtSz/00v989lH4puzjb5rFPxFaZQzNDBtVVxq5/OBBYytprXxxlC2cfx3xm9MCNBCNdeUccMSckdyML0HupX/4kucaXku5DUOpDsV1EmZlUH1xCv76Jmsi5GkTG1R9SNZ/5j9e1N/4NRNOo8fenocmeJRkJNfEOo9/hwhkn/jasroqf2H4rcjVbkGGRF7fR5yUcV80r2ZrwyowK3RCp5b8ZLJXtLFpTsL/iyQBGRc6mog+7HslTm1mwSpAK28VvObvyJkSlGW6necte08O1sgt4ETfXqkFaEPCX/By7M+yeknof6AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI1LTAxLTAzVDIxOjM5OjQyKzAwOjAw8+XqqAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNS0wMS0wM1QyMTozOTo0MiswMDowMIK4UhQAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjUtMDEtMDNUMjE6Mzk6NTArMDA6MDCOmGJ8AAAAAElFTkSuQmCC
 
 [Project Euler badge]: https://img.shields.io/badge/Project_Euler-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAk1BMVEX/////+vb/xqf/upP/0Lf/3cv/fxP/hCf/gBz/iDP/8Oj/hSz/jT7/to3/hCn/18H/sYTUz8zm4+LX2NgxAABEHwBCGwBMLRimoZ85BwBAFABuWlBSNSRIJw6xqKRHJAZdRDe1ranNzs+6ublUOCm/v7+qpqTt6ul9b2hpU0iPhoHR09OalJF4ZVv/nWD/o2z/hCiceIkzAAAA6ElEQVR4AaXSBWKDQABE0Ym77eLuUO/9T9cdvN4mL0E/DrjNZDr7YN63xXL10Xqzbfdbbj7b7VE7rI9fWJ5A0/OXGH8zudQEAMEZkmgJTSfDlLBsvea4fTQ8xVd/BGocKnokhujHieV7YRr7XpZTKkexADjmnklZltyvj2Zl3XmenjOGhmFo+ficZmia+v1DzKg4j+PoPj1VRY6A50wJ43NKKQUYvf584wsiRveJ+uh4YRdDdfqa6KIXZW2Ms6gl0SqTJEFDJi2J302fX77wvABtl8fdJ6sNGqfl6vUDfmD9p3n4YI7bvAEN4icVbV8ngQAAAABJRU5ErkJggg==
 
