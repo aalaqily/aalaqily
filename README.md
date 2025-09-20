@@ -11,7 +11,7 @@
 - 👋🏼 Hello world, I’m: **Ahmad** _(Pronounced as: **[ˈ(ʔ)aħmad]**)_
 - ☕️ {Retarded introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
-- 🌱 I’m currently: {a first-year engineering student, studying CS50, learning Rust}
+- 🌱 I’m currently: {a preparatory-year engineering student, studying CS50, learning Rust}
 - 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
 
 # <samp>ln</samp>
