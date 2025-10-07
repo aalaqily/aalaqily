@@ -9,7 +9,7 @@
 
 # <samp>whoami</samp>
 - 👋🏼 Hello world, I’m: **Ahmad** _(Pronounced as: **[ˈ(ʔ)aħmad]**)_
-- ☕️ {Introvert, veteran meme lord -with honours-, Java & Linux nerd, problem solver} 
+- ☕️ {Introvert, veteran meme lord —with honors—, Rustacean, Java & Linux nerd, problem solver} 
 - ☁️ I dream to: become a physicist
 - 🌱 I’m currently: {a preparatory-year engineering student, studying CS50, learning Rust}
 - 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
