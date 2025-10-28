@@ -15,7 +15,7 @@
 - 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
 
 # <samp>ln</samp>
-[![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/iahmadgad)
+[![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/aalaqily)
 [![Discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/580785454782218270)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces)](https://codeforces.com/profile/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?logo=codewars&logoColor=f15c56)](https://www.codewars.com/users/0xAhmad)
@@ -47,7 +47,7 @@
 [![Termux](https://img.shields.io/badge/⟩__%20Termux-black)](#)
 
 # <samp>ls badges</samp>
-| [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/iahmadgad) |
+| [![Project Euler](https://projecteuler.net/profile/0xAhmad.png)](https://projecteuler.net/progress=0xAhmad) | [![Codewars](https://www.codewars.com/users/0xAhmad/badges/micro)](https://www.codewars.com/users/0xAhmad) |  [![roadmap.sh](https://roadmap.sh/card/wide/66632871e724e39e4d0927b1?variant=dark)](https://roadmap.sh/u/aalaqily) |
 | -------- | ------- | ------- |
 
 <!---Variables go down there 👇-->
