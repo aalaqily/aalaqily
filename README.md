@@ -16,6 +16,7 @@
 
 # <samp>ln</samp>
 [![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)](https://gitlab.com/aalaqily)
+[![GitLab](https://img.shields.io/badge/DEV-black?logo=dev.to)](https://dev.to/aalaqily)
 [![Discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/580785454782218270)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces)](https://codeforces.com/profile/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?logo=codewars&logoColor=f15c56)](https://www.codewars.com/users/0xAhmad)
