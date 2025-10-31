@@ -21,8 +21,8 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces)](https://codeforces.com/profile/iAhmadGad)
 [![Codewars](https://img.shields.io/badge/Codewars-black?logo=codewars&logoColor=f15c56)](https://www.codewars.com/users/0xAhmad)
 [![Project Euler][Project Euler badge]](https://projecteuler.net/progress=0xAhmad)
-[![Exercism][Exercism badge]](https://exercism.org/profiles/iahmadgad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/iAhmadGad)
+[![Exercism][Exercism badge]](https://exercism.org/profiles/aalaqily)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/aalaqily)
 [![scratch](https://img.shields.io/badge/Scratch-black?logo=scratch)](https://scratch.mit.edu/users/iAhmadGad/)
 
 # <samp>ls stack</samp>
