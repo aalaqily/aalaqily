@@ -13,6 +13,7 @@
 - ☁️ I dream to: become a physicist
 - 🌱 I’m currently: {a preparatory-year engineering student, studying CS50, learning Rust}
 - 👀 I’m interested in: {mathematics, physics, theoretical computer science, programming, problem solving}.and(anything related)
+- 📜 Take a look at my [certificates](https://github.com/aalaqily/aalaqily/tree/main/certificates)
 - <a title="Judd Vinet, Aaron Griffin and Levente Polyák, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Arch_Linux_%22Crystal%22_icon.svg"><img width="16" alt="Arch Linux &quot;Crystal&quot; icon" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"></a> I use **Arch** btw :)
 
 # <samp>ln</samp>
