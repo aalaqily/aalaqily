@@ -1,6 +1,7 @@
 <p align="center">
   <a href=""><img src="https://freeislamiccalligraphy.com/wp-content/uploads/2016/08/Flag2-28.08.2016.jpg" alt="Shahada" height="60"></a>
   <a href=""><img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/badges/ghaza.png" alt="Stands with Ghaza"></a><br/>
+  <a href=""><img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/badges/egypt_flag.png" alt="Egypt flag" width="50"></a>
   <a href=""><img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/badges/syria_flag.png" alt="Syria flag" width="50"></a>
   <a href=""><img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/badges/palestine_flag.png" alt="Palestine flag" width="50"></a><br/>
   <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand with palestine"></a>
@@ -31,18 +32,21 @@
 [![Java][Java badge]](#)
 [![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=fc9a37)](#)
 [![Python](https://img.shields.io/badge/Python-black?logo=python)](#)
+[![Fish](https://img.shields.io/badge/Fish-black?logo=fish-shell)](#)
 [![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)](#)
 
 [![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
-[![Just](https://img.shields.io/badge/Just-black)](https://github.com/casey/just)
-[![Make](https://img.shields.io/badge/Make-black)](#)
+[![Just](https://img.shields.io/badge/Just-black?logo=just)](https://github.com/casey/just)
+[![Make](https://img.shields.io/badge/Make-black?logo=gnu)](#)
 [![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle&logoColor=24abc7)](#)
+[![Maven](https://img.shields.io/badge/Maven-black?logo=apache-maven&logoColor=a22160)](#)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github-actions)](#)
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-black?logo=obsidian&logoColor=4e3984)](#)
 [![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnu-emacs)](#)
+[![VS Codium](https://img.shields.io/badge/VSCodium-black?logo=vscodium)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipse&logoColor=FE7A16)](#)
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)](#)
