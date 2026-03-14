@@ -46,7 +46,7 @@
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-black?logo=obsidian&logoColor=4e3984)](#)
 [![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnu-emacs)](#)
-[![VS Codium](https://img.shields.io/badge/VSCodium-black?logo=vscodium)](#)
+[![VS Code](https://img.shields.io/badge/VS%20Code-black?logo=vscodium)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipse&logoColor=FE7A16)](#)
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)](#)
